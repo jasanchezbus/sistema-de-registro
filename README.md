@@ -6,3 +6,5 @@
 Para ejecutar el sistema debes poner:
 
 '''npm install readme''''
+
+Sistema de registro 2
